@@ -1,0 +1,19 @@
+{
+  "name": "museum",
+  "version": "1.0.0",
+  "description": "In this assignment, you will build an entire web application, using Vue for the front end and Node, Express, and Mongo on the back end. As part of this, we will show you how to upload photos to a server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halseyec/museum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/halseyec/museum/issues"
+  },
+  "homepage": "https://github.com/halseyec/museum#readme"
+}

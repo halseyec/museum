@@ -15,6 +15,8 @@
   </div>
   <div class="footer">
     <router-link to="/admin">Admin</router-link>
+    <p></p>
+    <a href="https://github.com/Ammonsh/museum-of-ordinary-objects.git">Github</a>
   </div>
 </div>
 </template>
@@ -23,7 +25,6 @@
 html {
   box-sizing: border-box;
 }
-
 body {
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
@@ -31,7 +32,6 @@ body {
   padding: 0px;
   margin: 0px;
 }
-
 /* Header */
 .header {
   display: flex;
@@ -39,20 +39,16 @@ body {
   background-color: #5BDEFF;
   color: #1C454F;
 }
-
 .title {
   margin-top: 5px;
 }
-
 .title h1 {
   font-size: 30px;
 }
-
 .content {
   padding: 20px 100px;
   min-height: 500px;
 }
-
 /* Footer */
 .footer {
   height: 50px;
@@ -60,16 +56,16 @@ body {
   background: #e3e3e3;
   font-size: 12px;
 }
-
 .footer a {
   color: #000;
 }
-
 h1 {
   font-size: 20px;
 }
-
 h2 {
   font-size: 14px;
+}
+h3 {
+  font-size: 9px;
 }
 </style>
